@@ -1,5 +1,11 @@
-_download
+# Python
+__pycache__
+.jupyter
+
+# macOS
 **.DS_Store
 
+# data
+_download
 **.tar.gz
 **.zip
